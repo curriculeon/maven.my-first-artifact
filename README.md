@@ -18,9 +18,9 @@
    * `chmod u+x ./deploy.sh`
    * `chmod u+x ./mvnw`
 2. Install `rbenv`
-   * `./install-rbenv`
+   * `./install-rbenv.sh`
 3. From a <u>**new**</u> terminal, execute the command below
-   * `./install-package_cloud`
+   * `./install-package_cloud.sh`
 3. From a <u>**new**</u> terminal, execute the command below
    * `./deploy.sh`
 4. Navigate to the newly deployed artifact in `packagecloud.io`
